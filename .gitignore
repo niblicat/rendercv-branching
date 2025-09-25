@@ -1,0 +1,6 @@
+# History contains your resumes stored within a directory named after the git branch you were working in. Feel free to track history if you would like
+history
+watch
+
+# OS files
+.DS_Store
